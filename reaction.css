@@ -1,0 +1,23 @@
+h1 {
+
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 250%;
+
+    }
+    
+    p {
+
+        font-family: 'Shadows Into Light', cursive;
+        font-size: 150%;
+
+    }
+    
+    #shape {
+
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        display: none;
+        position: relative;
+
+    }
